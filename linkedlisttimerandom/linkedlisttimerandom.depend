@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683282176 source:i:\codeblocks programs\linkedlisttimerandom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
