@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683256525 source:i:\codeblocks programs\timebubblerandom\main.c
+	<stdio.h>
+	<time.h>
+
