@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682553435 source:i:\codeblocks programs\21aprnosgeneratefiles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
