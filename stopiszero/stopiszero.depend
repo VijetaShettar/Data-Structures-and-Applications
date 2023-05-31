@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685550528 source:i:\codeblocks programs\stopiszero\main.c
+	<stdio.h>
+	<stdlib.h>
+

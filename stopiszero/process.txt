@@ -1,0 +1,17 @@
+Generated elements are: 13 28 17 24 27 21 12 13 
+Pushed element is 13
+Pushed element is 28
+Pushed element is 17
+Popped element is 17
+Numbers of pushed elements is: 3
+Total number of popped elements is: 1
+Number of elements left in stack is: 2
+Pushed element is 24
+Pushed element is 27
+Numbers of pushed elements is: 5
+Total number of popped elements is: 1
+Number of elements left in stack is: 4
+Popped element is 27
+Numbers of pushed elements is: 5
+Total number of popped elements is: 2
+Number of elements left in stack is: 3
