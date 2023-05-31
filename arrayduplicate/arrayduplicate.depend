@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685519284 source:i:\codeblocks programs\arrayduplicate\main.c
+	<stdio.h>
+	<stdlib.h>
+
