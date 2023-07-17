@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686198419 source:i:\codeblocks programs\8juntreeint\main.c
+	<stdio.h>
+	<stdlib.h>
+
