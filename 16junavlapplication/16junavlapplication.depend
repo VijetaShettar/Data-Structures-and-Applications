@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686933788 source:i:\codeblocks programs\16junavlapplication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
