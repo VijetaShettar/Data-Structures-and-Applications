@@ -1,0 +1,2 @@
+
+Preorder traversal: 1 5 
