@@ -1,0 +1,2 @@
+
+Preorder traversal: p j a d 

@@ -1,0 +1,2 @@
+
+Postorder traversal: d a j p 
