@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688447241 source:i:\codeblocks programs\4julmatrixgraphfile\main.c
+	<stdio.h>
+	<stdlib.h>
+
