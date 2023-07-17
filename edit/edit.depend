@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688722809 source:i:\codeblocks programs\edit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
