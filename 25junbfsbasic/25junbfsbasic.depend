@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687885470 source:i:\codeblocks programs\25junbfsbasic\main.c
+	<stdio.h>
+	<stdbool.h>
+
